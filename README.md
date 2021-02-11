@@ -1,3 +1,14 @@
+# proyecto
+este proyecto que es parte del curso de de manejo del dom de platzi 
+recojemos los datos de una api dicha api nos devuelve una imagen aleatorio
+lo que hacemos es con un boton agregar una imagen aleatorio de la api de zorros y con el otro boton eliminamos las imagenes
+se puede agregar mas de una imagen el limite de imagenes de la api es 122 
+una de las cosas mas complejas pero que se me quedaron es el lazy loading con el 
+intersection Observer fantastico 
+
+
+<img src="/img/Captura de pantalla de 2021-02-10 23-47-37.png" alt="pantallazo del proyecto :3" width="420">
+<img src="/img/Captura de pantalla de 2021-02-10 23-47-48.png" alt="pantallazo del proyecto " width="420">
 # Snowpack Tailwind
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
