@@ -1,0 +1,29 @@
+@import "../_snowpack/pkg/tailwindcss/dist/base.css";
+@import "../_snowpack/pkg/tailwindcss/dist/components.css";
+@import "../_snowpack/pkg/tailwindcss/dist/utilities.css";
+
+
+.p-4{
+    /* border: 1px solid red; */
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    border-radius: 1rem;
+    background-color: rgb(227, 224, 233);
+    margin-top:1rem;
+
+}
+.p-4 img{
+ border-radius: 1rem;
+}
+#images{
+    /* border: 1px solid red; */
+    display:flex;
+    align-items: center; 
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 1rem;
+    margin-top: 2rem;
+
+}
